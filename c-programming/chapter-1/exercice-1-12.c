@@ -3,13 +3,13 @@
 
 int main()
 {
-	int s;
+    int s;
 
-	while ((s = getchar()) != EOF) {
-		if (s == ' ' || s == '\t') {
-			putchar('\n');
-		} else {
-			putchar(s);
-		}
-	}
+    while ((s = getchar()) != EOF) {
+        if (s == ' ' || s == '\t') {
+            putchar('\n');
+        } else {
+            putchar(s);
+        }
+    }
 }
