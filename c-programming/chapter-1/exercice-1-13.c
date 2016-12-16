@@ -75,6 +75,6 @@ int main()
 			++word_length;
 		}
 	}
-	// print_horizontal_histogram(words_count);
-	print_vertical_histogram(words_count);
+	print_horizontal_histogram(words_count);
+	// print_vertical_histogram(words_count);
 }
