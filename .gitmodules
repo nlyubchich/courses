@@ -1,0 +1,3 @@
+[submodule "machine_learning/chapters"]
+	path = machine_learning/chapters
+	url = https://github.com/luispedro/BuildingMachineLearningSystemsWithPython.git
